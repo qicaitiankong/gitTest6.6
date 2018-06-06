@@ -24,6 +24,10 @@
     NSLog(@"测试git");
 }
 
+- (void)testMasterChange{
+ 
+}
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
