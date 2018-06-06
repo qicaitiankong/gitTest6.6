@@ -16,6 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSLog(@"分支提交");
     // Do any additional setup after loading the view.
 }
 
