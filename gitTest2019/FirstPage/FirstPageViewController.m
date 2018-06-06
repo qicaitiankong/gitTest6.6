@@ -24,7 +24,7 @@
     NSLog(@"测试git");
 }
 
-- (void)testMasterChange{
+- (void)testMasterChange2{
  
 }
 
