@@ -20,6 +20,9 @@
     
     // Do any additional setup after loading the view.
 }
+- (void)testOnly{
+    NSLog(@"测试git");
+}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
